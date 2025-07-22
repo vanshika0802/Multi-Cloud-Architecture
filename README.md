@@ -60,4 +60,25 @@ AWS-GCP Integration Page
 AWS Response: Hello from AWS App!
 GCP Response: Hello from GCP App!
 
+#Documentation 
+# Interoperability Demo: AWS and GCP
+
+## 🚀 Project Overview
+
+This project demonstrates **interoperability between two major cloud platforms: AWS and GCP**. The same Python Flask-based web application is hosted and run independently on both platforms, proving that cloud applications can seamlessly operate across environments with minimal changes.
+
+---
+
+## 🔧 Technologies Used
+
+- **Python Flask** – For backend server
+- **HTML/CSS** – For frontend user interface
+- **AWS EC2** – For deploying the web app
+- **Google Cloud Platform (GCP) Compute Engine** – For deploying the web app
+- **GitHub** – For version control and source code hosting
+
+---
+
+
+
 
